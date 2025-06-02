@@ -77,11 +77,6 @@ Hệ thống ứng dụng công nghệ **IoT** để thu thập dữ liệu và 
 
 ---
 
-## 📷 Giao diện mẫu
-
-(Hình ảnh hiển thị OLED, giao diện Thingspeak – bạn có thể thêm vào sau)
-
----
 
 ## 🧪 Giới hạn và phạm vi
 
